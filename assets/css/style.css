@@ -20,7 +20,7 @@ header {
 }
 li {
     font-size: 26px;
-    float: right;
+    float: left;
     margin-left: 60px;
     color: white;
 }
@@ -89,7 +89,7 @@ p {
     text-align: center;
     margin-bottom: 20px;
 }
-.contact {
+#contact {
     margin-bottom: 230px;
 }
 .contact-wrap {
