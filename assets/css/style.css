@@ -19,7 +19,7 @@ header {
     height: 32px;
 }
 li {
-    font-size: 26px;
+    font-size: 20px;
     float: left;
     margin-left: 60px;
     color: white;
@@ -36,8 +36,9 @@ a {
     flex-direction: column;
 }
 .main-visual h1 {
-    font-size: 147px;
+    font-size: 120px;
     color: white;
+    text-align: center;
 }
 .main-visual p {
     font-size: 26px;
@@ -51,13 +52,13 @@ section {
     padding-top: 100px;
 }
 h1 {
-    font-size: 50px;
+    font-size: 38px;
 }
 h2 {
-    font-size: 34px;
+    font-size: 28px;
 }
 p {
-    font-size: 20px;
+    font-size: 16px;
 }
 .about-contents {
     display: flex;
